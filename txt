@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+text added blabla
+another text
+=======
+text added
+>>>>>>> e57860c... Commit 2: txt file edited
+=======
+text added
+another text
+>>>>>>> d980caa... Commit 3: another text added
+=======
+text added blabla
+another text
+>>>>>>> 9377db1... Commit 4: blabla
